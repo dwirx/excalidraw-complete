@@ -1,3 +1,0 @@
-[submodule "cloudflare-worker"]
-	path = cloudflare-worker
-	url = https://github.com/betterandbetterii/cf-kv.git
